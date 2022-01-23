@@ -81,7 +81,7 @@ app.get('/shop/:id/info', (req, res) => {
                 const foundproducts = JSON.parse(data).filter(e => e.shopID == libraryID)
                 arr.push("Products:")
                 arr.push(foundproducts)
-                res.send(arr)
+                res.send(arr, null, 4)
             })
         })
 
