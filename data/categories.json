@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "type": "Autobiography",
+        "categoryID": 1,
+        "shopID": 1
+    },
+    {
+        "id": 2,
+        "type": "Histories",
+        "categoryID": 2,
+        "shopID": 1
+    },
+    {
+        "id": 3,
+        "type": "Children books",
+        "categoryID": 3,
+        "shopID": 1
+    },
+    {
+        "id": 4,
+        "type": "T-SHIRTS",
+        "categoryID": 1,
+        "shopID": 2
+    },
+    {
+        "id": 5,
+        "type": "Trousers",
+        "categoryID": 2,
+        "shopID": 2
+    },
+    {
+        "id": 6,
+        "type": "Caps",
+        "categoryID": 3,
+        "shopID": 2
+    },
+    {
+        "id": 7,
+        "type": "Telephones",
+        "categoryID": 1,
+        "shopID": 3
+    },
+    {
+        "id": 8,
+        "type": "Computers",
+        "categoryID": 2,
+        "shopID": 3
+    },
+    {
+        "id": 9,
+        "type": "Other items",
+        "categoryID": 3,
+        "shopID": 3
+    }
+]

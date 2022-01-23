@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg",
+        "name": "Steve Jobs",
+        "price": "140$",
+        "shopID": 1,
+        "categoryID": 1
+    },
+    {
+        "id": 2,
+        "photo": "https://kbimages1-a.akamaihd.net/4af60914-b214-4ad5-957f-380c363b6560/1200/1200/False/elon-musk-a-biography-of-business-success-and-entrepreneurship-tesla-spacex-billionaire.jpg",
+        "name": "Elon Musk",
+        "price": "80$",
+        "shopID": 1,
+        "categoryID": 1
+    },
+    {
+        "id": 3,
+        "photo": "https://kbimages1-a.akamaihd.net/db1bdba3-a7a2-4068-beaa-f120549d63e1/353/569/90/False/the-autobiography-of-benjamin-franklin-1706-1757.jpg",
+        "name": "Benjamin Franklin",
+        "price": "150$",
+        "shopID": 1,
+        "categoryID": 1
+    },
+    {
+        "id": 4,
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/41GtaPI0S3L.jpg",
+        "name": "Sherlock Holmes",
+        "price": "200$",
+        "shopID": 1,
+        "categoryID": 2
+    },
+    {
+        "id": 5,
+        "photo": "https://s1.livelib.ru/boocover/1001482726/o/4fa2/Daniel_Defo__Robinzon_Kruzo.jpeg",
+        "name": "Robinzon Kruzo",
+        "price": "20$",
+        "shopID": 1,
+        "categoryID": 2
+    },
+    {
+        "id": 6,
+        "photo": "https://i.dr.com.tr/cache/600x600-0/originals/0000000625133-1.jpg",
+        "name": "Gulivers Travel",
+        "price": "30$",
+        "shopID": 1,
+        "categoryID": 2
+    },
+    {
+        "id": 7,
+        "photo": "https://images.penguinrandomhouse.com/cover/9780553511116",
+        "name": "The Alphabet",
+        "price": "2$",
+        "shopID": 1,
+        "categoryID": 3
+    },
+    {
+        "id": 8,
+        "photo": "https://5.imimg.com/data5/JG/CE/MY-35641433/nursery-english-book-500x500.jpg",
+        "name": "English Book",
+        "price": "1$",
+        "shopID": 1,
+        "categoryID": 3
+    },
+    {
+        "id": 9,
+        "photo": "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226473017.jpg",
+        "name": "Childrens Literature",
+        "price": "20.000som",
+        "shopID": 1,
+        "categoryID": 3
+    },
+    {
+        "id": 10,
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg",
+        "name": "Steve Jobs",
+        "price": "140$",
+        "shopID": 2,
+        "categoryID": 1
+    },
+    {
+        "id": 11,
+        "photo": "https://kbimages1-a.akamaihd.net/4af60914-b214-4ad5-957f-380c363b6560/1200/1200/False/elon-musk-a-biography-of-business-success-and-entrepreneurship-tesla-spacex-billionaire.jpg",
+        "name": "Elon Musk",
+        "price": "80$",
+        "shopID": 2,
+        "categoryID": 1
+    },
+    {
+        "id": 12,
+        "photo": "https://kbimages1-a.akamaihd.net/db1bdba3-a7a2-4068-beaa-f120549d63e1/353/569/90/False/the-autobiography-of-benjamin-franklin-1706-1757.jpg",
+        "name": "Benjamin Franklin",
+        "price": "150$",
+        "shopID": 2,
+        "categoryID": 1
+    },
+    {
+        "id": 13,
+        "photo": "https://images-na.ssl-images-amazon.com/images/I/41GtaPI0S3L.jpg",
+        "name": "Sherlock Holmes",
+        "price": "200$",
+        "shopID": 2,
+        "categoryID": 2
+    },
+    {
+        "id": 14,
+        "photo": "https://s1.livelib.ru/boocover/1001482726/o/4fa2/Daniel_Defo__Robinzon_Kruzo.jpeg",
+        "name": "Robinzon Kruzo",
+        "price": "20$",
+        "shopID": 2,
+        "categoryID": 2
+    },
+    {
+        "id": 15,
+        "photo": "https://i.dr.com.tr/cache/600x600-0/originals/0000000625133-1.jpg",
+        "name": "Gulivers Travel",
+        "price": "30$",
+        "shopID": 2,
+        "categoryID": 2
+    },
+    {
+        "id": 16,
+        "photo": "https://images.penguinrandomhouse.com/cover/9780553511116",
+        "name": "The Alphabet",
+        "price": "2$",
+        "shopID": 2,
+        "categoryID": 3
+    },
+    {
+        "id": 17,
+        "photo": "https://5.imimg.com/data5/JG/CE/MY-35641433/nursery-english-book-500x500.jpg",
+        "name": "English Book",
+        "price": "1$",
+        "shopID": 2,
+        "categoryID": 3
+    },
+    {
+        "id": 18,
+        "photo": "https://tmm.chicagodistributioncenter.com/IsbnImages/9780226473017.jpg",
+        "name": "Childrens Literature",
+        "price": "20.000som",
+        "shopID": 2,
+        "categoryID": 3
+    }
+]
